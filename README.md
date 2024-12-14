@@ -12,7 +12,7 @@ As a software engineer with over three years of experience, I specialize in .NET
   *How to reach me* 📫
  * 🌐  Visit [My Portfolio](https://khaoulabenchari.github.io/) for complete background and contact.
  * ✉️  [Email](khabenchari@gmail.com)
- *  <a href="https://www.linkedin.com/in/khaoulabenchari" target="_blank"><img alt="khaoula1305's LinkdeIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+ *  <a href="https://www.linkedin.com/in/khaoulabenchari" target="_blank"><img alt="khaoulabenchari's LinkdeIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 Feel free to connect with me for opportunities in software development, collaborations, or to discuss the latest trends in technology!
 
@@ -93,11 +93,11 @@ Feel free to connect with me for opportunities in software development, collabor
 - IA
 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaoula1305&layout=compact)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaoula1305&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaoulabenchari&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaoulabenchari&theme=github_dark)
 
-![Khaoula's github stats](https://github-readme-stats.vercel.app/api?username=khaoula1305&show_icons=true&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khaoula1305&theme=github_dark)
+![Khaoula's github stats](https://github-readme-stats.vercel.app/api?username=khaoulabenchari&show_icons=true&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khaoulabenchari&theme=github_dark)
 
 
 

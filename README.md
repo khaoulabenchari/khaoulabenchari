@@ -74,6 +74,7 @@ Feel free to connect with me for opportunities in software development, collabor
 - **MeteoMaps** (General Directorate of Meteorology, 2020): Decoding and storage of meteorological data, and visualization on meteorological maps using Django, Python, Javascript, D3JS.
 - **Generic Dashboard** (Ministry of Economy and Finance, 2019): Web application for management of recruitment competitions and candidate selection using PHP, CSS, HTML, Bootstrap.
 - **WINPLANNER** (In Progress): Mobile application for better organization of daily tasks using .NET Maui, Blazor.
+- **multiservpro** :  landing page template (Blazor, Netlify, Supabase)(https://multiservpro.netlify.app)
 
 ---
 
